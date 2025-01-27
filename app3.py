@@ -13,6 +13,8 @@ import functools
 import time
 import re
 
+st.set_page_config(layout="wide")
+
 def main():
     # Initialize session state variables
     if 'embeddings_cache' not in st.session_state:
