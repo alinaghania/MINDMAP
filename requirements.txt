@@ -1,0 +1,10 @@
+sentence-transformers
+openai
+
+streamlit
+plotly
+openai
+langchain-openai
+scikit-learn
+pandas
+numpy
